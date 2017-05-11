@@ -1,0 +1,20 @@
+  .numbers{
+    display: inline-block;
+    text-align: center;
+    color: #32a4e5;
+  }
+  table{
+    border-top:1px #ddd solid;
+    border-right:1px #ddd solid;
+    border-collapse:collapse;border-spacing:0;
+  }
+  table tr td,
+  table tr th {
+    border-bottom:1px #ddd solid;
+    border-left:1px #ddd solid;
+    box-sizing: border-box;
+    padding: 10px 5px;
+  }
+  table tr th {
+    background: #f0f0f0;
+  }
