@@ -5,4 +5,5 @@
 
 ## DEMO
 
-参考(http://style-type.net/demo/Number_Loop/sample.html "サンプルページ")
+[参考ページ](http://style-type.net/demo/Number_Loop/sample.html "サンプルページ")
+
