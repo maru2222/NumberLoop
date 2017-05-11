@@ -7,3 +7,7 @@
 
 [参考ページ](http://style-type.net/demo/Number_Loop/sample.html "サンプルページ")
 
+## JS用のメモ
+
+- trの数をカウント対象とする。
+- 一番上のtrは飛ばして、2番目からカウント開始する。
